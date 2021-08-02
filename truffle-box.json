@@ -11,5 +11,6 @@
   },
 
   "hooks": {
+    "post-unpack": "npm install"
   }
 }
